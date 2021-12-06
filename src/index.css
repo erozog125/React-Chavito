@@ -44,6 +44,10 @@ footer {
   bottom: 0;
 }
 
+
+footer p {
+  color: #F0F03F;
+}
 .card {
   width: 20rem;
   height: 20rem;
